@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/jersey-opendata",
   "title": "Jersey Opendata",
   "description": "Jersey Open Data MCP — opendata.gov.je, the official statistics / open-data portal of the Channel…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/jersey-opendata",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-jersey-opendata",
