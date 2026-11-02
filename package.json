@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jersey-opendata",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Jersey Open Data MCP — opendata.gov.je, the official statistics / open-data portal of the Channel Island of Jersey (a British Crown Dependency), maintained by Statistics Jersey. Runs on CKAN.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "jersey-opendata",
     "gatewaySlug": "jersey-opendata",
-    "sourceHash": "v1-515ff19a561d760a77a656b7600967006d3a1f51cc026b17c1c63dd27a9102fe",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-448274215fc530fc1f79d0cdc50da467827acc1edd374224f963d2a0ebe16639",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
